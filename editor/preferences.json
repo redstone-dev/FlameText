@@ -1,0 +1,12 @@
+{
+	"theme": "default.css",
+	"fontSize": 14,
+	"gutterOptions": {
+		"show": true,
+		"enableFolding": true
+	},
+	"cursorOptions": {
+		"mode": 0,
+		"enableBracketMatch": true
+	}
+}
